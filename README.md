@@ -1,2 +1,2 @@
 # entornosDesarrollo
-**Esta es una preuba
+*Esta es una preuba*
